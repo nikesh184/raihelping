@@ -13,6 +13,7 @@ const StripeCheckoutButton =({price})=>{
     }
     return(
         <StripeCheckout
+        
         label='pay now'
         name='Bhandari clothing LTD'
         billingAddress
